@@ -3,18 +3,15 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <meta name="description" content="Free Next.js website template for builders, contractors & construction firms – built with Bootstrap" />
-  <meta name="keywords" content="Next.js construction template, React contractor website, Bootstrap 5 builder theme, SCSS construction UI, free Next.js template, responsive builder website, multi-page contractor site, modern construction portfolio, SEO-friendly builder template, free website for construction company" />
-  <meta name="author" content="Themixly Web" />
-  <link rel="canonical" href="https://github.com/themixlyweb/nextjs-construction-website-template" />
+  <meta name="description" content="Next.Js Romma & Co Construction" />
 </head>
 <body>
-<h1>Romma Construction Company</h1>
+<h1>Romma & Co Construction Company</h1>
 
 <h2>📸 Screenshots</h2>
 <figure>
   <figcaption>Responsive layout built for desktop, tablet, and mobile devices</figcaption><br/>
-  <img src="https://themixly.com/wp-content/uploads/2025/06/Buildify-Product-Detail-1-scaled.png" alt="Buildify Responsive Layout">
+  <img src="https://rommaco-construction.vercel.app/img/hero-bg.webp" alt="Buildify Responsive Layout">
 </figure>
 
 <h2>✨ Why Choose Buildify?</h2>
