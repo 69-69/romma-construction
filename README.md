@@ -65,37 +65,6 @@ npm run build     # Build for production</code></pre>
   <li>✅ SCSS styling</li>
   <li>✅ React, JSX, and HTML structure</li>
 </ul>
-<p>🔒 Full features like multi-page layout, appointment form, treatment details, and more are available in the premium version.</p>
-<p>👉 <a href="https://themixly.com/themes/construction-company-react-nextjs-template/" target="_blank">Grab the Full Package on Themixly →</a></p>
-
-<h2>📝 License</h2>
-<p>This template is licensed under the <a href="https://github.com/themixlyweb/nextjs-construction-website-template/blob/main/LICENSE" target="_blank">MIT License</a>.<br>
-You may use this version for personal and educational purposes.<br>
-<p>👉 For commercial projects, please purchase the <a href="https://themixly.com/themes/construction-company-react-nextjs-template/" target="_blank">full version</a> here.</p>
-
-<h2>📢 Support & Contributions</h2>
-<ul>
-  <li>⭐ Star this repo if you find it useful</li>
-  <li>Share with your developers or construction business owners</li>
-</ul>
-
-<h2>🔗 Other Templates You May Like</h2>
-<ul>
-  <li>🦴 <a href="https://themixly.com/themes/react-restaurant-cafe-one-page-template/" target="_blank">RestoOne – Restaurant One Page </a></li>
-  <li>🏗 <a href="https://themixly.com/themes/law-firm-attorney-react-template/" target="_blank">LawEdge – Law Firm Website</a></li>
-</ul>
-
-<p>Explore more templates → <a href="https://themixly.com/themes" target="_blank">Themixly Themes</a></p>
-
-<h2>🧾 Contact Us</h2>
-<p>
-  Need support or custom development?<br>
-  📩 <a href="https://themixly.com/contact-us/" target="_blank">Contact Themixly Team</a><br>
-</p>
-
-<footer>
-  © 2025 Themixly. All rights reserved. | Built with ❤️ for developers & designers.
-</footer>
 
 </body>
 </html>
