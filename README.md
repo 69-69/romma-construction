@@ -38,23 +38,6 @@
 npm run dev       # Start development server
 npm run build     # Build for production</code></pre>
 
-<h3>📁 Folder Structure</h3>
-
-<pre><code>Buildify/
-├── pages/
-├── public/
-│   ├── images/
-├── src/
-│   ├── assets/
-│   │   └── scss/
-│   ├── components/
-│   ├── data/
-│   └── styles/
-├── README.md
-└── package.json</code></pre>
-
-<h2>📦 What’s Included in the Free GitHub Version?</h2>
-<p>The GitHub version includes only essential components to help you get started:</p>
 <ul>
   <li>✅ Header with navigation</li>
   <li>✅ Hero Section (Homepage banner)</li>
