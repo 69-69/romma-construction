@@ -9,66 +9,9 @@
   <link rel="canonical" href="https://github.com/themixlyweb/nextjs-construction-website-template" />
 </head>
 <body>
-<h1>Buildify – Free Next.js Website Template for Contractors, Builders & Construction Companies</h1>
-
-<h2>Introduction</h2>
-<p>Buildify is a free, modern, and fully responsive Next.js & React template designed for construction companies, contractors, builders, and engineering firms. Built with React 18+, Next.js 14+, Bootstrap 5, and SCSS, it helps you launch a fast, SEO-friendly, and professional website for showcasing services, projects, teams, and more — all with clean code and a mobile-first layout.
-</p>
-
-<h2>🔗 Live Preview & Download</h2>
-<ul>
-  <li>🚀 <a href="https://themixly.com/preview/192/construction-company-react-nextjs-template" target="_blank"> Live Demo – Buildify Template</a></li>
-  <li>📦 <a href="https://github.com/themixlyweb/nextjs-construction-website-template" target="_blank"> Download from GitHub (Free)</a></li>
-</ul>
-
-<h2>🧩 Feature Comparison: GitHub Free vs Themixly Pro</h2>
-<table>
-  <thead>
-    <tr><th>Feature</th><th>GitHub Free Version</th><th>Themixly Full Version</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>Next.js 14+, React 18+</td><td>✅</td><td>✅</td></tr>
-    <tr><td>SCSS, Bootstrap 5.x</td><td>✅</td><td>✅</td></tr>
-    <tr><td>Multi-page Layout</td><td>❌</td><td>✅</td></tr>
-    <tr><td>Custom Components</td><td>Limited</td><td>Full UI Kit Included</td></tr>
-    <tr><td>Contact Forms</td><td>❌</td><td>✅</td></tr>
-    <tr><td>Responsive for All Devices</td><td>✅</td><td>✅</td></tr>
-    <tr><td>Project/Portfolio Pages</td><td>❌</td><td>✅</td></tr>
-    <tr><td>Construction Focused Layout</td><td>❌</td><td>✅</td></tr>
-    <tr><td>Lifetime Updates</td><td>Community Only</td><td>Lifetime Free Updates</td></tr>
-    <tr><td>Licensing</td><td>MIT (Free)</td><td>Commercial Use Allowed</td></tr>
-    <tr><td>Premium Support</td><td>Community via GitHub</td><td>1:1 Support via Email</td></tr>
-  </tbody>
-</table>
-
-<h3>👉 <a href="https://themixly.com/themes/construction-company-react-nextjs-template/" target="_blank"> Upgrade to the Pro Version</a></h3>
-
-<h2>🧠 Template Use Cases</h2>
-<p>This construction website template is ideal for:</p>
-<ul>
-  <li>Construction companies & general contractors</li>
-  <li>Builders, engineers & site manager</li>
-  <li>Architecture or civil project firms</li>
-  <li>Corporate portfolio or project showcase sites</li>
-  <li>Real estate developers & infrastructure companies</li>
-  <li>Maintenance & renovation service providers</li>
-</ul>
-
-<h2>💡 Key Features</h2>
-<ul>
-  <li>React 18+, Next.js 14+ with App Router</li>
-  <li>Bootstrap 5.x and SCSS styling</li>
-  <li>Clean & responsive layout for all devices</li>
-  <li>Optimized for SEO and speed</li>
-  <li>MIT license (free version)</li>
-</ul>
+<h1>Romma Construction Company</h1>
 
 <h2>📸 Screenshots</h2>
-<figure>
-  <figcaption>Includes pages like Home, About Us, Projects and Contact</figcaption><br/>
-  <img src="https://themixly.com/wp-content/uploads/2025/06/Buildify-Product-Detail-2-scaled.png" alt="Buildify Template Pages Screenshot">
-</figure>
-
 <figure>
   <figcaption>Responsive layout built for desktop, tablet, and mobile devices</figcaption><br/>
   <img src="https://themixly.com/wp-content/uploads/2025/06/Buildify-Product-Detail-1-scaled.png" alt="Buildify Responsive Layout">
